@@ -1,0 +1,36 @@
+.contenedorp{
+    position: absolute;
+    height: 400px;
+    width: 600px;
+    background: #94098d;
+    text-align: center;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%,-50%);
+    border-radius: 30px;
+
+
+}
+.cardbody{
+    background: rgb(209, 194, 209);
+    height: 90%;
+    padding: 20px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    
+}
+body{
+    background-image: url(https://i.pinimg.com/originals/6d/bf/1f/6dbf1f24cd721ada89875badc21a0079.png);
+    background-size: cover;
+}
+.estilotexto {
+    margin-top: 10%;
+
+}
+.estilotexto input{
+    width: 50%;
+    margin-bottom: 50px;
+
+}
+
+
